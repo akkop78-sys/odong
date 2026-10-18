@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+.venv/
+.env
+.env.*
+*.log
+.idea/
+.vscode/
+images/course/leepuco/

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akkop78-sys.github.io/odongdo-bike/sitemap.xml
